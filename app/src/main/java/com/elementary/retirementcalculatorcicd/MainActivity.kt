@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
 
         btnDone = findViewById(R.id.btn_done)
         AppCenter.start(
-            application, "690d49ca-880b-4848-965e-6668dcd94a75",
+            application, "2c33d110-7d02-4802-a0ec-2dd755846fd6",
             Analytics::class.java, Crashes::class.java
         )
 
